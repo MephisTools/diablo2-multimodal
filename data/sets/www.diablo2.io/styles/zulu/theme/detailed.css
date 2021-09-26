@@ -1,0 +1,15 @@
+.z-vf-hide {
+    display: block
+}
+
+.z-vf-inline-hide {
+    display: inline-block
+}
+
+.z-vf-br {
+    display: block
+}
+
+.z-vf-br-show {
+    display: none
+}

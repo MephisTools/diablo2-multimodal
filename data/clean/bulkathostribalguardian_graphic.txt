@@ -1,0 +1,19 @@
+Helms
+discord
+Tal Rasha's Horadric Crest
+Exceptional Set
+Death Mask
+Defense: 99-131
+0
+0
+0
+0
+Durability: 20
+Req Strength: 55
+0
+Req level: 66
+Quality level: 26
+Treasure class: 48
+0
+0 10% Life Stolen Per Hit 10% Mana Stolen Per Hit All Resistances +15 +45 Defense +30 To Mana +60 To Life
+Part of set: Tal Rasha's Wrappings

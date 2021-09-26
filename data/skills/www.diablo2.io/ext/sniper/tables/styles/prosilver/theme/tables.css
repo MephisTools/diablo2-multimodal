@@ -1,0 +1,66 @@
+div.tables1 i.fa-fw {
+    cursor: pointer
+}
+
+.tleft {
+    float: left;
+    margin-right: 6px
+}
+
+.tcenter {
+    margin: 0 auto
+}
+
+.tright {
+    float: right;
+    margin-left: 6px
+}
+
+.textleft {
+    text-align: left
+}
+
+.textcenter {
+    text-align: center
+}
+
+.textright {
+    text-align: right
+}
+
+th.textright {}
+
+.tfooter {
+    text-align: center;
+    cursor: pointer
+}
+
+tfoot tr {}
+
+tfoot td {}
+
+tfoot a {}
+
+tfoot a:hover {}
+
+#tables-button-selections {
+    width: 100%;
+    display: none
+}
+
+#tables-button-guidelines a,
+#tables-guidelines-show a {
+    cursor: pointer
+}
+
+.tables-list {
+    margin-bottom: 10px !important;
+    cursor: help
+}
+
+.upper_group,
+.lower_group {
+    width: 65px;
+    display: inline-block;
+    word-wrap: break-word
+}

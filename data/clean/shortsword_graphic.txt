@@ -1,0 +1,27 @@
+Body Armor Body Armor
+discord can have 1 sockets
+can have 2 sockets
+can have 3 sockets
+can have 4 sockets
+No description yet
+Sacred Armor
+Elite Base Item
+Defense: 487-600
+0
+0
+0
+0
+Durability: 60
+Req Strength: 232
+0
+Req level: 66
+Quality level: 85
+Treasure class: 87
+Max sockets: 4
+Weight: Medium
+0
+Variants:
+Ancient Armor
+(Nor.)
+Ornate Plate
+(Exc.)

@@ -1,0 +1,9 @@
+Smite
+Paladin Skill
+Requires level: 1
+Skill tree: Combat Skills
+Shield bash that does damage and knock back.
+@ Level 20:
+Damage %: 300
+Stun Length (seconds): 4.4
+Mana Cost: 2

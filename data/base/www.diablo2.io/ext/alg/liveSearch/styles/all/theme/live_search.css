@@ -1,0 +1,81 @@
+.live_search_contact-icon {
+    background-repeat: no-repeat;
+    display: block;
+    height: 16px;
+    width: 16px
+}
+
+.ls_search_user_pm {
+    position: absolute
+}
+
+.livesearch,
+.livesearch-btn {
+    border-radius: 0 0 10px 10px;
+    box-shadow: 1px 3px 5px rgba(0, 0, 0, .2);
+    top: 0;
+    z-index: 5;
+    margin-left: 0;
+    padding: 0 15px;
+    background-color: #fff;
+    position: fixed;
+    line-height: normal;
+    cursor: pointer;
+    font-weight: 700;
+    height: 16px
+}
+
+.livesearch {
+    background-color: #fff;
+    width: auto;
+    height: 28px;
+    display: none;
+    padding: 3px 10px
+}
+
+.livesearch-btn-close {
+    float: right;
+    padding: 2px 3px;
+    cursor: pointer
+}
+
+.user-handle .pointer {
+    left: auto;
+    right: 10px
+}
+
+.phpbb_vk-icon {
+    background: url(./images/vk.png) no-repeat scroll 0 0 transparent;
+    cursor: pointer;
+    height: 16px;
+    position: relative;
+    width: 16px
+}
+
+.livesearch-disable {
+    opacity: .3;
+    filter: alpha(opacity=30)
+}
+
+.ls-contacts {
+    border-bottom-color: White
+}
+
+.ls-contact-menu {
+    margin-left: 0;
+    left: 0;
+    max-width: 1281px
+}
+
+@media only screen and (max-width:760px),
+(min-device-width:768px) and (max-device-width:1024px) {
+    .livesearch {
+        height: auto
+    }
+    .livesearch label {
+        display: block
+    }
+    .livesearch input {
+        width: 140px
+    }
+}

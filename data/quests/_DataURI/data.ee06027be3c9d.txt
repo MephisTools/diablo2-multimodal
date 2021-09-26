@@ -1,0 +1,1 @@
+chrome-extension://oldceeleldhonbafppcapldpdifcinji/common/extension-init.js

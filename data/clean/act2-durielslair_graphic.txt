@@ -1,0 +1,10 @@
+Arcane Sanctuary
+Act 2 Open Area
+Area level Normal: 14
+Area level Nightmare: 48
+Area level Hell: 79
+Has Waypoint: Yes
+Entered from:
+Palace Cellar Level 3
+Leads to:
+Canyon of the Magi

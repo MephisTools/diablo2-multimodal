@@ -1,0 +1,67 @@
+.acInput {}
+
+.acInput:-moz-placeholder {
+    filter: alpha(opacity=50);
+    -moz-opacity: .5;
+    -khtml-opacity: .5;
+    opacity: .5
+}
+
+.acInput::-webkit-input-placeholder {
+    filter: alpha(opacity=50);
+    -moz-opacity: .5;
+    -khtml-opacity: .5;
+    opacity: .5
+}
+
+.acResults {
+    overflow: hidden;
+    z-index: 6;
+    width: 100%;
+    max-width: 100%
+}
+
+.acResults ul {
+    width: 100%;
+    list-style-position: outside;
+    list-style: none;
+    padding: 0;
+    margin: 0
+}
+
+.acResults li {
+    list-style: none;
+    color: #adc7d1;
+    height: 2.5em;
+    line-height: 2.5em;
+    position: relative;
+    top: 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-right: 9px;
+    cursor: pointer;
+    line-height: 36px;
+    margin: 1px !important
+}
+
+.acResults li:hover {
+    filter: brightness(1.2);
+    background: 0 0 !important;
+    box-shadow: inset 0 0 21px 9px rgba(255, 255, 255, .11), inset 0 0 0 1px rgba(255, 255, 255, .12), 0 0 8px #000
+}
+
+.acResults li:first-of-type {}
+
+.acResults li::after {
+    content: " ";
+    display: block;
+    width: 0;
+    height: 0;
+    line-height: 0
+}
+
+.acLoading,
+.loader {}
+
+.acSelect {}

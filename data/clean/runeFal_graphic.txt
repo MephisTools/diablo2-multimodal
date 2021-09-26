@@ -1,0 +1,11 @@
+Recipe: Portal to Matron's Den
+Cube Recipe
+1
+Key of Hate
+1
+Key of Terror
+1
+Key of Destruction
+Produces:
+1
+Portal to Matron's Den

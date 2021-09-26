@@ -1,0 +1,10 @@
+Pindleskin
+Act 5 Undead Superunique
+Reanimated Horde
+Found in:
+Nihlathak's Temple
+Stats (Hell):
+Monster level: 86
+Treasure class: 87
+Experience: 254500
+Poison Immune

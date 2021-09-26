@@ -1,0 +1,137 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Just a moment...</title>
+  <style type="text/css">
+    html, body {width: 100%; height: 100%; margin: 0; padding: 0;}
+    body {background-color: #ffffff; color: #000000; font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue",Arial, sans-serif; font-size: 16px; line-height: 1.7em;-webkit-font-smoothing: antialiased;}
+    h1 { text-align: center; font-weight:700; margin: 16px 0; font-size: 32px; color:#000000; line-height: 1.25;}
+    p {font-size: 20px; font-weight: 400; margin: 8px 0;}
+    p, .attribution, {text-align: center;}
+    #spinner {margin: 0 auto 30px auto; display: block;}
+    .attribution {margin-top: 32px;}
+    @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+    #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+    #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+    .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+    a { color: #2c7cb0; text-decoration: none; -moz-transition: color 0.15s ease; -o-transition: color 0.15s ease; -webkit-transition: color 0.15s ease; transition: color 0.15s ease; }
+    a:hover{color: #f4a15d}
+    .attribution{font-size: 16px; line-height: 1.5;}
+    .ray_id{display: block; margin-top: 8px;}
+    #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+    #cf-hcaptcha-container { text-align:center;}
+    #cf-hcaptcha-container iframe { display: inline-block;}
+  </style>
+
+      <meta http-equiv="refresh" content="3">
+  <script type="text/javascript">
+    //<![CDATA[
+    (function(){
+      
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "non-interactive",
+        cNounce: "26570",
+        cRay: "69464663bb4e65f8",
+        cHash: "72a915eff0fe9fa",
+        cFPWv: "b",
+        cTTimeMs: "1000",
+        cRq: {
+          ru: "aHR0cHM6Ly93d3cuZGlhYmxvMi5pby9zdHlsZXMvenVsdS90aGVtZS9pbWFnZXMvaXRlbXMvbWFjZV90aWNvbi5wbmc=",
+          ra: "TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkzLjAuNDU3Ny44MiBTYWZhcmkvNTM3LjM2",
+          rm: "R0VU",
+          d: "GwtGHpiVj+ZBM/47Q5fW2yqIjezP3lYCGBj8vWCBYpBJOJ5Vv6HIkZFJpEo23m+x+wmsfWKpjENeZmi+z09EDxdOqCAK8Zx1tD1u/3HVS9Mnxr+sz4ZU70dPSJB0MM208vZdaN4JxBejrHDtvFsGbhKllbYuoO4bohZK6AWpLq/eo3+sGgkIvZWIPCSq0u/7Ee0x9Hf8GDKHLBhV2Dpcj0+HnLbiY5Iz9sK9Ff7D3SXtTaQ7+tySQfOa1WT670FVUrhSCu/RQiTZpeUXr76pjRPfjDz4krH8/JXzGZL+Bp4CbfnjiqXzdHW0DRCSIs2PBkVccT/tFYLtSEBgm4muOvJfPokWpJ01pm1ShFZvjZhESNOxsgVWRHCeX4L7VNPCNwfdR0MyqPBMUfhfxlO+LNcjQ9twi8h19Jd7emNGLWhJWj2S6fNnYxiWcMLNZe2kVkq4J6QCAuDeh48M59l6vNWcXGq8CLQxkOQVyuegOBj9KMM1xthZUuyFUaywYShVBRZ/8wKiW6lBRaK7HP4Y6JChR73RXu6AeX2gYnm5UglHiUOf7Zlg4xWRhIchdkD3nc1DhFN9/iOQ3aH/FTF1bowS6vGK2i3xoTnKQdeP9P8DzoyVJeNN+rN0p51TILbE8X3KGBG/3s/qLKcXJO16oii/4F065kmUxmntAhAaT2qd0vH9/GcN83Ca2nlonIdS",
+          t: "MTYzMjU5NDExNS4xNTEwMDA=",
+          m: "YzuKqTKfEnX+MT7tZ8I9A46QPB/CrBHf6NKOtJLGmGk=",
+          i1: "G6glgeA1DW61vL7Ae4Pkng==",
+          i2: "OcFBn3nF4pu5vmh2dbnWYg==",
+          zh: "wjhBPWURqVuEQsB+L+dMkRPFZ1/9XZin3aryyMzqpFM=",
+          uh: "1eXv0iet6DBS9oJnHsjoaRgwjcETgoBKEmVHzZYKqt4=",
+          hh: "Oe2WIsrYE4XXJh5D+dfYAGblJT2Nv/akzLgviKnZs5U=",
+        }
+      }
+      window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+      
+    })();
+    //]]>
+  </script>
+  
+
+</head>
+<body>
+  <table width="100%" height="100%" cellpadding="20">
+    <tr>
+      <td align="center" valign="middle">
+          <div class="cf-browser-verification cf-im-under-attack">
+  <noscript>
+    <h1 data-translate="turn_on_js" style="color:#bd2426;">Please turn JavaScript on and reload the page.</h1>
+  </noscript>
+  <div id="cf-content" style="display:none">
+    
+    <div id="cf-bubbles">
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+      <div class="bubbles"></div>
+    </div>
+    <h1><span data-translate="checking_browser">Checking your browser before accessing</span> diablo2.io.</h1>
+    
+    <div id="no-cookie-warning" class="cookie-warning" data-translate="turn_on_cookies" style="display:none">
+      <p data-translate="turn_on_cookies" style="color:#bd2426;">Please enable Cookies and reload the page.</p>
+    </div>
+    <p data-translate="process_is_automatic">This process is automatic. Your browser will redirect to your requested content shortly.</p>
+    <p data-translate="allow_5_secs" id="cf-spinner-allow-5-secs" >Please allow up to 5 seconds&hellip;</p>
+    <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">Redirecting&hellip;</p>
+  </div>
+   
+  <form class="challenge-form" id="challenge-form" action="/styles/zulu/theme/images/items/mace_ticon.png?__cf_chl_jschl_tk__=pmd_KDv44ajSL73JnzZ8BCcFeo2oGEvCSTBfPmretwf1ljU-1632594115-0-gqNtZGzNAhCjcnBszQi9" method="POST" enctype="application/x-www-form-urlencoded">
+    <input type="hidden" name="md" value="s8wOg8MPIxHq9SRN_fcc44fARAVep.AxnH8Qc5f21wA-1632594115-0-AY1eQziqQxHBMQD_0IEK1xWYFG8cays18umqyURjarAaillqoH38EDuUK46s19L1EGqVWQQCtfVJHR0UYlNMllaZSnFjk3QObgjV5j9E15P6GaoFVzC09yKj35aqgclcim8vmyYtGQJVSKZ6Qn-govaTGm9OUmf8XYhBKm1AR9IbzhMFPi2LPDk-UQNJXdtZO8Wjejwx1tSBK2LUL2-s7e4Dp4PFh42cD3TsfW6NUy8wChJAOASlwGskEhth6MsV1xpQOgPZ-GYJTydY4_FBmqHKCLWGOht_lbexzesIv0uT04beGIe3sAcdYIxBSqhucv62kCyBqyTncnrgwbFyZLCQ_cA8MXosTMt7ychomhsemyx-hQrEpDC_-AgWkcWqDb3AiiUJWvAHycofNQknp0DRM79oME5z_FJJ7opuIEit6kn-iKxq9xomHzr7RbwXhew07YZ2yNmFqOmi21QEgPs" />
+    <input type="hidden" name="r" value="xXks7g96Lg2rAagZ...riwdpeHe3jCfhkG8SK_IxUcg-1632594115-0-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"/>
+    <input type="hidden" value="0c1fba4a80acc79c348a2d0209f72f8b" id="jschl-vc" name="jschl_vc"/>
+    <!-- <input type="hidden" value="" id="jschl-vc" name="jschl_vc"/> -->
+    <input type="hidden" name="pass" value="1632594116.151-662o2Z40vc"/>
+    <input type="hidden" id="jschl-answer" name="jschl_answer"/>
+  </form>
+     
+    <script type="text/javascript">
+      //<![CDATA[
+      (function(){
+          var a = document.getElementById('cf-content');
+          a.style.display = 'block';
+          var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+          var trkjs = isIE ? new Image() : document.createElement('img');
+          trkjs.setAttribute("src", "/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=69464663bb4e65f8");
+          trkjs.id = "trk_jschal_js";
+          trkjs.setAttribute("alt", "");
+          document.body.appendChild(trkjs);
+          var cpo=document.createElement('script');
+          cpo.type='text/javascript';
+          cpo.src="/cdn-cgi/challenge-platform/h/b/orchestrate/jsch/v1?ray=69464663bb4e65f8";
+          document.getElementsByTagName('head')[0].appendChild(cpo);
+        }());
+      //]]>
+    </script>
+  
+
+  
+  <div id="trk_jschal_nojs" style="background-image:url('/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=69464663bb4e65f8')"> </div>
+</div>
+
+          
+          <div class="attribution">
+            DDoS protection by <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing/" target="_blank">Cloudflare</a>
+            <br />
+            <span class="ray_id">Ray ID: <code>69464663bb4e65f8</code></span>
+          </div>
+      </td>
+     <div style="position: absolute; top: -250px; left: -250px;"><a href="https://kuivasranta.net/potato.php?data=0">table</a></div>
+    </tr>
+  </table>
+</body>
+</html>

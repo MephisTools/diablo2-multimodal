@@ -1,0 +1,13 @@
+.lazyload {
+    width: 1px;
+    height: 1px;
+    background: 0 0;
+    background-repeat: no-repeat;
+    background-position: 50%
+}
+
+.lazyloaded {
+    background: 0 0;
+    min-width: 0;
+    min-height: 0
+}

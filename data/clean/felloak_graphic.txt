@@ -1,0 +1,19 @@
+Orbs
+discord
+Death's Fathom
+Elite Unique
+Dimensional Shard
+0
+0
+0
+1H damage: 30-53
+Base speed: 10
+Durability: 50
+0
+0
+Req level: 73
+Quality level: 81
+Treasure class: 87
+0
+0 +3 To Sorceress Skill Levels +20% Faster Cast Rate +15-30% To Cold Skill Damage Lightning Resist +25-40% Fire Resist +25-40%
+Ladder onlyPatch 1.10 or later Sorceress equip only
